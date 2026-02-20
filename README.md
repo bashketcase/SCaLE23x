@@ -1,9 +1,6 @@
 # SCaLE23x
 Content shared at SCaLE 23x
 
-# SCaLE23x
-Content shared at SCaLE 23x
-
 ## dailydigest.sh
 A script that provides a high-level overview of my day, including:
 - meetings scheduled
